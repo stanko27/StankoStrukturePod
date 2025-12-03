@@ -1,0 +1,7 @@
+2024-12-05
+Kruh, 1, 0.85
+Mlijeko, 2, 1.30
+Maslac, 1, 2.40
+Jaja, 12, 0.12
+Mlijeko, 1, 1.30
+Čokolada, 3, 0.90
