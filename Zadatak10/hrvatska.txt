@@ -1,0 +1,4 @@
+Zagreb 800000
+Split 180000
+Rijeka 120000
+Osijek 90000
